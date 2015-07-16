@@ -1,6 +1,6 @@
 # Navibuntu
 ## A Naviserver / OpenACS Vagrant Box for Developers
-
+* The latest version can be found on [Atlas](https://atlas.hashicorp.com/alexinslc/boxes/navibuntu)
 * Ubuntu Trusty 32 base box.
 * OpenACS (5.8.1) + Naviserver (4.99.8) + PostgreSQL (9.3)
 * Accessible via http://localhost:8080
